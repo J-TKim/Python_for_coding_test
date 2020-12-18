@@ -1,3 +1,5 @@
+import time
+
 # N, M, K를 공백으로 구분하여 입력받기
 #N, M, K = int(input()).split()
 n, m, k = 5, 8, 3
@@ -6,7 +8,6 @@ n, m, k = 5, 8, 3
 #data = list(map(int, input().split()))
 data = [2, 4, 5, 4, 6]
 
-import time
 start_time = time.time()  # 측정 시작
 
 data.sort(reverse=True)
@@ -36,7 +37,6 @@ n, m, k = 5, 8, 3
 #data = list(map(int, input().split()))
 data = [2, 4, 5, 4, 6]
 
-import time
 start_time = time.time()  # 측정 시작
 
 data.sort() # 입력받은 수들 정렬하기
@@ -70,7 +70,6 @@ n, m, k = 5, 8, 3
 #data = list(map(int, input().split()))
 data = [2, 4, 5, 4, 6]
 
-import time
 start_time = time.time()  # 측정 시작
 
 data.sort() # 입력받은 수 정렬
