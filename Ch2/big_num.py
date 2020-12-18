@@ -27,6 +27,7 @@ print(sum)
 end_time = time.time()  # 측정 종료
 print("my answer time :", end_time - start_time)  # 수행 시간 출력
 
+
 # N, M, K를 공백으로 구분하여 입력받기
 #n, m, k = map(int, input().split())
 n, m, k = 5, 8, 3
@@ -60,8 +61,6 @@ print(result)
 end_time = time.time()  # 측정 종료
 print("simple answer code time :", end_time - start_time)  # 수행 시간 출력
 
-import time
-start_time = time.time()  # 측정 시작
 
 # N, M, K를 공백으로 구분하여 입력받기
 #n, m, k = map(int, input().split())
@@ -70,6 +69,9 @@ n, m, k = 5, 8, 3
 # N개의 수를 공백으로 구분하여 입력받기
 #data = list(map(int, input().split()))
 data = [2, 4, 5, 4, 6]
+
+import time
+start_time = time.time()  # 측정 시작
 
 data.sort() # 입력받은 수 정렬
 first = data[n - 1] # 가장 큰 수
