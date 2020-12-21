@@ -31,7 +31,7 @@ for ele in data:
 print(x, y)
 
 end_time = time.time()  # 측정 종료
-print("time :", end_time - start_time)  # 수행 시간 출력
+print("my answer time :", end_time - start_time)  # 수행 시간 출력
 
 start_time = time.time()  # 측정 시작
 
@@ -61,4 +61,4 @@ for plan in plans:
 print(x, y)
 
 end_time = time.time()  # 측정 종료
-print("time :", end_time - start_time)  # 수행 시간 출력
+print("answer time :", end_time - start_time)  # 수행 시간 출력
