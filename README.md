@@ -16,4 +16,4 @@ Ch4(구현)
 - [UDRL.py](https://github.com/J-TKim/Python_for_coding_test/blob/main/Ch4/UDRL.py) : 상하좌우로 이동하는 게임
 - [with_3.py](https://github.com/J-TKim/Python_for_coding_test/blob/main/Ch4/with_3.py) : 3이 들어있는 시각을 카운팅하는 코드
 - [knight.py](https://github.com/J-TKim/Python_for_coding_test/blob/main/Ch4/knight.py) : 체스의 말이 이동할 수 있는 경우의 수를 카운팅하는 코드
-- [game.py](https://github.com/J-TKim/Python_for_coding_test/blob/main/Ch4/game.py) : 게임 캐릭터가 밟은 칸 수를 출력하는 코드 (동서남북 이동 방향을 미리 저장해두고 사용하기, 새로운 이동좌표를 담은 변수를 이용하기))
+- [game.py](https://github.com/J-TKim/Python_for_coding_test/blob/main/Ch4/game.py) : 게임 캐릭터가 밟은 칸 수를 출력하는 코드 (동서남북 이동 방향을 미리 저장해두고 사용하기, 새로운 이동좌표를 담은 변수를 이용하기)
